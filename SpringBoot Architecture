@@ -1,0 +1,24 @@
+The Building Blocks are
+1) Spring Boot Starter Projects
+2) Spring Boot Starter Parent
+3) Auto Configuration.
+
+Spring Boot Starter Projects
+Starters are a set of convenient dependency descriptors that you can include in your applications.
+We get one-stop-shop for all the spring and related to technology that you need without  having to hunt  through sample code and copy paste loads dependency descriptors
+
+For example:
+spring-boot-starter-web-services build applications exposing SOAP web services
+
+2) Spring Boot Starter Parent
+All springboots projects typically use spring-boot-starter-parent as the parent in pom.xml
+<parent>
+<groupid>org.springframework.boot</gropuid>
+<artifactid>spring-boot-starter-parent</artifactid>
+<version>2.0.0 RELEASE</version>
+</parent>
+
+Parent POM allows  you to manage  the following things for multiple child property and modules
+1)Configuration: Java version and other properties
+2)Dependency Management:Version of dependencies
+3)Default plugin Configuration
