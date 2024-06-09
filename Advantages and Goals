@@ -1,0 +1,12 @@
+Spring boot provides good platform for java developers  to develop and stand alone  and production grade spring applications that we can run
+
+Advantages:
+1) Easy to understand and develop spring applications.
+2)Increases productivity
+3)Decreases development time
+
+Goals:
+1)To avoid complex XML configuration  in spring
+2) To develop a production ready spring applications in easier way.
+3)To reduce the development time  and run the applications independently.
+4)Offer an easier way of getting started  with web applications.
