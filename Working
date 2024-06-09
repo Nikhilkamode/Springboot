@@ -1,0 +1,6 @@
+1)Automatically configure  your applications  based on the dependencies  you have added to the project using @EnableAutoConfiguration.
+annotation
+2)The entry point of the spring boot application is the class contains@SpringBootApplication annotations and the main method.
+3)Spring boot automatically scans the all components include in the project using @ComponentScan Annotation.
+4)The annotation @SpringBootApplication is the combination of three annotations @ComponentScan ,@Configuration,@EnableAutoConfiguration.
+5)Example-database auto configuration using in memory database.
