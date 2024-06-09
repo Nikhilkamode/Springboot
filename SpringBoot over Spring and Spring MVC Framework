@@ -1,0 +1,6 @@
+1) It provides  a flexible way to configure java beans ,XML Configurations and database transactions.
+2) It provides a powerful batch processing and manages REST endpoints.
+3) No  manual configurations are needed.
+4)Offers annotations based  spring applications.
+5)Eases dependency management.
+6)It  includes embedded servlet container for ex-tomcat,jetty-configure,dependecy 
